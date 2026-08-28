@@ -4,7 +4,7 @@
 
 I'm **Chengzhi Yu** (余诚智), and you can call me **Kody**. I'm currently a first-year MSc student in Computer Science at the*University of Nottingham Ningbo China (UNNC). My research interests broadly lie in **Cybersecurity**, and I'm always open to exploring new and interesting research directions. I'm open to research collaborations and discussions in related areas, so feel free to reach out if you share similar interests or have any questions!
 
-🎓 BSc in Data Science and Big Data Technology, Jishou University, 2026.  
+🎓 BEng in Data Science and Big Data Technology, Jishou University, 2026.  
 📍 1st-year MSc student in Computer Science at UNNC.  
 👨‍💻 My current research focuses on **IoT Security, Authentication, and Privacy Preservation**.  
 📫 How to reach me: [**scxcy2@nottingham.edu.cn**](mailto:scxcy2@nottingham.edu.cn)  
