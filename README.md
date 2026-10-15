@@ -6,8 +6,8 @@ I'm **Chengzhi Yu** (余诚智), and you can call me **Kody**. <!-- I'm currentl
 
 🎓 BEng in Data Science and Big Data Technology, Jishou University, 2026.  
 👨‍💻 My current research focuses on **IoT Security, Authentication, and Privacy Preservation**.  
-📫 How to reach me: [**scxcy2@nottingham.edu.cn**](mailto:scxcy2@nottingham.edu.cn)  
-🌐 Personal Homepage: [**kody1126.cn**](https://kody1126.cn/)
+<!-- 📫 How to reach me: [**scxcy2@nottingham.edu.cn**](mailto:scxcy2@nottingham.edu.cn)  -->
+<!-- 🌐 Personal Homepage: [**kody1126.cn**](https://kody1126.cn/)  -->
 
 <!-- 📍 1st-year MSc student in Computer Science at UNNC. -->
 
